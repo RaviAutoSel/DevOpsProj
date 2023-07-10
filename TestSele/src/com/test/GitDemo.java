@@ -6,6 +6,11 @@ public class GitDemo {
 		// TODO Auto-generated method stub
 		//added comments
 		System.out.println("code git demo");
+		
+		for(int i=1;i<=10;i++)
+		{
+			System.out.println("value:"+i);
+		}
 
 	}
 
